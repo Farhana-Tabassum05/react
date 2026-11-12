@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+#title{
+    font-family: cursive;
+    font-size: 40px
+}
+textarea::-webkit-scrollbar{
+  display: none;
+}
+/* #notesViewer::-webkit-scrollbar{
+  width: 7px;
+  border-radius: 20px;
+  background : rgb(83, 99, 130);
+}
+#notesViewer::-webkit-scrollbar-track{
+  background: transparent;
+}
+#notesViewer::--webkit-scrollbar-thumb{
+  background : beige;
+  border-radius:1px;
+  
+} */
